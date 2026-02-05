@@ -59,7 +59,7 @@ User Query
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/hybrid-rag-system.git # TODO: Replace with your repo URL
+   git clone https://github.com/raghdaemara1/hybrid-rag-system.git
    cd hybrid-rag-system
    ```
 
@@ -214,10 +214,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact & Portfolio
 
-**Author**: [Your Name] <!-- TODO: Replace with your actual name -->
-**GitHub**: [@yourusername](https://github.com/yourusername) <!-- TODO: Replace with your GitHub username -->
-**LinkedIn**: [Your LinkedIn](https://linkedin.com/in/yourprofile) <!-- TODO: Replace with your LinkedIn profile -->
-**Portfolio**: [yourwebsite.com](https://yourwebsite.com) <!-- TODO: Replace with your portfolio URL -->
+**Author**: Raghda Emara
+**GitHub**: [@raghdaemara1](https://github.com/raghdaemara1)
+**LinkedIn**: [linkedin.com/in/raghdaemara](https://linkedin.com/in/raghdaemara) <!-- TODO: Update with your actual LinkedIn profile -->
+**Portfolio**: [Your Portfolio](https://yourwebsite.com) <!-- TODO: Add your portfolio URL if you have one -->
 
 ---
 
