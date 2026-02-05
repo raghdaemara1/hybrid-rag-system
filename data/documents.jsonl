@@ -1,0 +1,5 @@
+{"id":"doc1","content":"Hybrid RAG blends vector search with graph search for better coverage.","metadata":{"entities":["hybrid","rag","vector","graph","retrieval"],"source":"notes"}}
+{"id":"doc2","content":"Vector search uses embeddings to find similar text.","metadata":{"entities":["vector","embeddings","similarity","retrieval"],"source":"notes"}}
+{"id":"doc3","content":"Graph search expands context using linked entities.","metadata":{"entities":["graph","entities","relationships","retrieval"],"source":"notes"}}
+{"id":"doc4","content":"Reciprocal Rank Fusion merges ranked lists by rank.","metadata":{"entities":["fusion","ranking","hybrid","retrieval"],"source":"notes"}}
+{"id":"doc5","content":"Citations point to sources so answers are easier to verify.","metadata":{"entities":["citations","context","answer","generation"],"source":"notes"}}
