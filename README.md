@@ -80,19 +80,6 @@ User Query
                  ↓
             Response
 ```
-
-## Screenshots
-
-### System Demo
-![Demo Screenshot](docs/images/demo-screenshot.png)
-*Hybrid RAG system processing a query with vector and graph retrieval results*
-
-### Architecture Visualization
-![Architecture Diagram](docs/images/architecture.png)
-*Visual representation of the dual retrieval and fusion pipeline*
-
-> **Note**: To add screenshots, create a `docs/images/` directory and add your images there. You can capture screenshots of the running system or create architecture diagrams.
-
 ## Installation
 
 ### Prerequisites
@@ -267,7 +254,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 **Author**: Raghda Emara
 **GitHub**: [@raghdaemara1](https://github.com/raghdaemara1)
-**LinkedIn**: [linkedin.com/in/raghdaemara](https://linkedin.com/in/raghdaemara) <!-- TODO: Update with your actual LinkedIn profile -->
+**LinkedIn**: [linkedin.com/in/raghdaemara]([https://linkedin.com/in/raghdaemara](https://www.linkedin.com/in/raghda-mohamed-433b96b1)) <!-- TODO: Update with your actual LinkedIn profile -->
 **Portfolio**: [Your Portfolio](https://yourwebsite.com) <!-- TODO: Add your portfolio URL if you have one -->
 
 ---
