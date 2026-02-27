@@ -139,24 +139,6 @@ class HybridRAGPipeline:
         model = self._gemini.GenerativeModel(self.generation_model)
         response = model.generate_content(prompt)
         return response.text.strip()
-```
----
-## File 3 of 3 — `requirements.txt`
-**What changed:** Added `sentence-transformers` and `spacy`, added version pins to all packages, added the `spacy` model install note as a comment.
-```
-# Hybrid RAG System — pinned dependencies
-# After cloning, also run: python -m spacy download en_core_web_sm
-# LLM providers
-google-generativeai==0.8.4
-groq==0.11.0
-# Vector search
-faiss-cpu==1.9.0
-# Graph
-networkx==3.4.2
-# Embeddings (local, no API key required)
-sentence-transformers==3.3.1
-# NLP / entity extraction
-spacy==3.8.3
-# Utilities
-numpy==1.26.4
-python-dotenv==1.0.1
+
+
+
